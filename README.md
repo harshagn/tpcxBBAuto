@@ -1,6 +1,8 @@
 # tpcxBBAuto
 Project to automate  performance tuning  use cases of tpcx-BB:
 Methodology:
+![image](https://user-images.githubusercontent.com/8401410/134800286-1bde0a2c-2ac0-4413-b0c0-c303276da3c2.png)
+
 ![image](https://user-images.githubusercontent.com/8401410/134793967-13e46a92-63c1-4983-94f3-ac718be51f6b.png)
 
 ML Model and Tuning parameters:
